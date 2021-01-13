@@ -1,0 +1,22 @@
+.mt-10 {
+  margin-top: 10px;
+}
+
+.board {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.align-center {
+  justify-content: center;
+  align-items: center;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+.update-row-column {
+  width: 40%;
+  margin: 0 auto;
+}
